@@ -4,4 +4,4 @@ Git has a mutable index called stage.
 
 just check push
 
-creating a new branch is quick
+creating a new branch is quick and simple
